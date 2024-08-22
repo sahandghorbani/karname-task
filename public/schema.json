@@ -1,0 +1,16 @@
+{
+  "submitValidation": [],
+  "properties": [],
+  "serverSideSubmitValidation": [],
+  "serverSideEditValidation": [],
+  "serverSideDeleteValidation": [],
+  "serverSideSubmitHook": [],
+  "serverSideEditHook": [],
+  "serverSideDeleteHook": [],
+  "components": [],
+  "exporter": {
+    "name": "form-js (https://demo.bpmn.io)",
+    "version": "1.7"
+  },
+  "type": "default"
+}
